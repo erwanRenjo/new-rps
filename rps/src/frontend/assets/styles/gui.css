@@ -1,0 +1,39 @@
+.buttonback {
+    margin-left: -2rem;
+    padding-left: 0rem;
+}
+
+input {
+    color: none !important;
+}
+
+.refresh {
+    text-align: center;
+}
+
+.refresh-btn {
+    max-width: 3rem;
+    height: auto;
+    cursor: pointer;
+}
+
+.refresh-btn:hover {
+    transform: scale(1);
+}
+
+.btnReg{
+    color: white!important;
+    font-weight: 700!important;
+    background-color: black!important;
+    border: none;
+    padding: 10px!important;
+}
+
+.btnReg:hover{
+    color: black !important;
+    font-weight: 700;
+    background-color: #c41111!important;
+    border: none;
+    text-decoration:darkslategrey!important;
+    padding: 10px!important;
+}
